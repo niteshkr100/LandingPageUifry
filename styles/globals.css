@@ -1,0 +1,291 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    font-family: 'Clash Display', sans-serif;
+}
+
+.btn1{
+    background-color: black;
+}
+.homeText{
+    color: #FF5555;
+}
+  .frame1{
+    position: relative;
+    right: -144px;
+    margin-left: -130px;
+    width: 55%;
+    margin-top: -247px;
+    z-index: -1; 
+ } 
+ .textpluscolor{
+  position: relative;
+ }
+ .heros{
+    position: relative;
+ }
+ .star0{
+    position: absolute;
+    top: 404px;
+    left: 239px;
+ }
+
+ 
+.h-\[350px\] {
+    margin-left: -71px;
+    height: 365px;
+}
+.colortext{
+    top: -117px;
+    left: 88px;
+    width: 80%;
+    transform: rotate(180deg);
+    position:absolute;
+    z-index: -1;
+}
+.star3{
+    margin-left: -119px;
+}
+ .subhero{
+    max-width: 60%;
+    margin-left: -125px;
+ }
+ .phone3{
+    position: relative;
+    max-width: 130%;
+ }
+ .chose{
+    position:  absolute;
+    max-width: 117%;
+ }
+ .phonecolor3{
+    margin-top: 124px;
+    /* margin-left: 39px; */
+ 
+ }
+ .customize{
+    width: 52%;
+    
+ }
+ .custstart{
+    position: relative;
+ }
+ .star6{
+    position: absolute;
+    top: -33px;
+    left: 600px;
+ }
+#hline{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    text-align: center;
+    font-weight: 600;
+}
+.get{
+    position: relative;
+}
+.star8{
+    position: absolute;
+    right: -42px;
+    top: -34px;
+}
+.star10{
+    position: absolute;
+    top: 212px;
+    left: 12px;
+
+}
+.star7white{
+    position: absolute;
+    right: 508px;
+    top: 44px;
+}
+.startcolor{
+    z-index: -1;
+    position: absolute;
+    top: -229px;
+    left: -51px;
+}
+.star2{
+    position: relative;
+    top: -200px;
+    left: -80px;
+}
+.feat{
+    position: relative;
+}
+.sidecolor{
+   position: absolute;
+   width: 20%;
+   top: 750px;
+     right: 0;
+     z-index: -1;
+}  
+.test{
+    position: relative;
+}
+.star7{
+    position: absolute;
+    right: 160px;
+    top: -66px;
+}
+.faq{
+    position: relative;
+}
+.star9{
+    position: absolute;
+    left: 10px;
+    top: -70px;
+}
+.star6white{
+    position: absolute;
+    top: 369px;
+    right: 722px;
+}
+.halfcircle1{
+    position: absolute;
+    top: 224px;
+   
+}
+.halfcircle2{
+    position: absolute;
+    z-index: 5;
+    right: 106px;
+}
+.getstarted{
+  z-index: 10;
+}
+.halfcolor{
+    position: absolute;
+    z-index: 3;
+    right: 118px;
+    top: 59px;
+}
+.btnfooter{
+    width: 200px;
+}
+.footertext{
+    text-align: center;
+    
+}
+ @media (max-width: 1250px) {
+    #_next{
+        padding-left: 40px;
+    }
+    .lspace{
+        margin-left: 30px;
+    }
+   .frame1{
+    right: 0px;
+    margin-left: 0px;
+    width: 80%;
+    margin-top: 0px;
+    z-index: -1; 
+   }
+   
+.customize {
+    width: 100%;
+}
+.star6{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+ }
+   .star3{
+    display: hidden;
+   }
+   .herotext{
+    margin-top: -25px;
+   }
+   .subhero{
+    max-width: 70%;
+    margin-left: 0;
+ }
+ .star2{
+    position: relative;
+    top: 121px;
+    left: -356px;
+}
+.sidecolor{
+    display: none;
+     top:0; 
+ }  
+ .star10{
+    left: -20px;
+}
+.star7white {
+    right: 227px;
+    top: 140px;
+}
+.halfcircle1{
+    display: none;
+}
+.halfcircle2{
+  display: none;
+}
+.customize {
+    width: 79%;
+  } 
+  .star0{
+    display: none;
+ }
+
+ 
+.h-\[350px\] {
+    margin-left:0px;
+    height: 365px;
+}
+}
+  @media (max-width: 1023px) {
+    .subhero{
+        max-width: 100%;
+    
+     }
+     .customize {
+        width: 90%;
+      } 
+     
+  }
+  @media (max-width: 470px) {
+     
+    
+    .btn1{
+        display: none;
+    }
+    .feature{
+        display: none;
+    }
+    .star6white{
+        position: absolute;
+        top: 369px;
+    right: 276px;
+    }
+    .star7white {
+        right: 14px;
+    }
+
+.halfcolor {
+    right: 43px;
+    top: 198px;
+}
+
+.h-10 {
+    margin-left: -9px;
+  }
+ 
+  .adv{
+    margin-top: 62px;
+}
+.get{
+    margin-top: 4rem;
+}
+.ft{
+    margin-top: -49px;
+}
+.customize {
+    width: 100%;
+  } 
+}
