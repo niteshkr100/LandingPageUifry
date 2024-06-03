@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Website Link(hosted using netlify)
+https://zesty-travesseiro-4d5c7d.netlify.app/
+
+## Before Getting Started download node module
+npm install or npm i
 
 ## Getting Started
 
