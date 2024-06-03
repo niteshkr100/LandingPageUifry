@@ -1,6 +1,5 @@
 ## Website Link(hosted using netlify)
-https://uifrylandpage.netlify.app/
-
+https://uifrywebapp.netlify.app/
 ## Before Getting Started download node module
 npm install or npm i
 
