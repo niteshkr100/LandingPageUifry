@@ -1,5 +1,5 @@
 ## Website Link(hosted using netlify)
-https://zesty-travesseiro-4d5c7d.netlify.app/
+https://uifrylandpage.netlify.app/
 
 ## Before Getting Started download node module
 npm install or npm i
